@@ -1,5 +1,5 @@
 ---
 layout: redirect
-url: map.html
+url: http://pseudomap.serveminecraft.net
 ---
 
