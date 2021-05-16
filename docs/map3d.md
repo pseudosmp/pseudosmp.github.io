@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: http://pseudomap.serveminecraft.net
+tourl: http://pseudosmp.serveminecraft.net:369
 ---
