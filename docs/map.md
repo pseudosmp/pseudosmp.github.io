@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://example.com
+tourl: http://pseudomap.serveminecraft.net
 ---
