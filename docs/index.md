@@ -5,10 +5,10 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: 2D Map
-    curl: map
+    curl: map.html
     cimage: media/demo02.jpg
   - cname: 3D Map
-    curl: map3d
+    curl: map3d.html
     cimage: media/demo02.jpg
   - cname: Screenshots
     curl: screenshots
