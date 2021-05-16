@@ -1,4 +1,4 @@
 ---
-layout: redirect3d
+layout: redirect
 tourl: http://pseudosmp.serveminecraft.net:369
 ---
