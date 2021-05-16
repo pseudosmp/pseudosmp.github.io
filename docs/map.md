@@ -1,5 +1,5 @@
 ---
 layout: redirect
-tourl: http://pseudosmp.serveminecraft.net:368/
+tourl: http://pseudomap.serveminecraft.net
 ---
 
