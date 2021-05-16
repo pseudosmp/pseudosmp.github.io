@@ -1,5 +1,5 @@
 ---
 layout: redirect
-url: http://pseudosmp.serveminecraft.net:368
+tourl: http://pseudosmp.serveminecraft.net:368
 ---
 
