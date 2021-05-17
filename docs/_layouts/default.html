@@ -91,10 +91,7 @@ layout: compress
 
     {{ content }}
 
-    <div class="w-full pb-8 text-center" style="color:#888;">
-        <a href="https://github.com/coffeebank/moonrise" rel="noopener" title="Moonrise by coffeebank">Powered by Moonrise</a> &middot; 
-        <a href="{% if site.siteFooterlink %}{{ site.siteFooterlink }}{% else %}about{% endif %}" rel="noopener" title="Legal">&copy; {{ site.siteYear }}<script>new Date().getFullYear()>{{ site.siteYear }}&&document.write("&#8208;"+new Date().getFullYear());</script> {{ site.serverName }}</a>
-    </div>
+	<div class="w-full pb-8 text-center" style="color:#888;"> <a href="https://discord.gg/WFKrNTb9F2" rel="noopener" title="Moonrise by coffeebank">Made with ❤ by michael momochi ☕</a> &middot; <a href="about" rel="noopener" title="Legal">&copy; 2021<script>new Date().getFullYear()>2021&&document.write("&#8208;"+new Date().getFullYear());</script> coffeebank</a> </div>
 
     {% if page.navname == "Home" %}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/serverstatus-home.js"></script>
