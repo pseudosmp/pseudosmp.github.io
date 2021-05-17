@@ -8,7 +8,7 @@ cellLinks:
     curl: http://pseudosmp.serveminecraft.net:368
     cimage: media/demo02.jpg
   - cname: 3D Map
-    curl: http://pseudosmp.serveminecraft.net:368
+    curl: http://pseudosmp.serveminecraft.net:369
     cimage: media/demo02.jpg
   - cname: Screenshots
     curl: screenshots
