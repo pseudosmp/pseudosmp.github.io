@@ -1,6 +1,7 @@
 ---
 layout: page
 navname: Map
+tourl: http://pseudosmp.serveminecraft.net:369
 ---
 
 # Checking if map is online...
@@ -8,4 +9,7 @@ navname: Map
 The map may be offline if this page doesn't load after a few seconds...
 {: #mapstatus}
 
-<div id="serverMap3d">
+[Click here to go to the map]({{ page.tourl }})
+
+{{ page.tourl }}
+{: #mapurl .hidden}

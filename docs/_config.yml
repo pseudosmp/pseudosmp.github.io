@@ -14,8 +14,6 @@ showinSearchEngines: true
 serverName: The Pseudo Force SMP
 serverDescription: Fun Cross-Platform Survival Multiplayer!
 serverIP: pseudosmp.serveminecraft.net
-serverMap: http://pseudosmp.serveminecraft.net:368
-serverMap3d: http://pseudosmp.serveminecraft.net:369
 
 
 # Discord information

@@ -10,11 +10,8 @@
         document.getElementById("serverStatus").innerHTML = `<p class="font-bold select-none"><span class="text-green-600">&#11044;</span>&emsp;We're online!&ensp;&middot;&ensp;${data.players.online} playing</p>`;
         document.getElementById("serverStatusM").innerHTML = `<p class="font-bold select-none"><span class="text-green-600">&#11044;</span>&emsp;Online, ${data.players.online} playing</p>`;
         {% endif %}
-        if(document.getElementById("serverMap")) {
-            window.location.href = "{{ site.serverMap }}"
-        }
-        if(document.getElementById("serverMap3d")) {
-            window.location.href = "{{ site.serverMap3d }}"
+        if(document.getElementById("mapurl")) {
+            window.location.href = document.getElementById("mapurl").innerHTML
         }
     }
     else {
