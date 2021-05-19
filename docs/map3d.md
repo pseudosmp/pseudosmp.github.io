@@ -9,7 +9,7 @@ tourl: http://pseudosmp.serveminecraft.net:369
 The map may be offline if this page doesn't load after a few seconds...
 {: #mapstatus}
 
-[Click here to go to the map]({{ page.tourl }})
+[If the map is online and you are not redirected automatically, click here]({{ page.tourl }})
 
 {{ page.tourl }}
 {: #mapurl .hidden}
