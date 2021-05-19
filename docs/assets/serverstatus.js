@@ -10,6 +10,12 @@
         document.getElementById("serverStatus").innerHTML = `<p class="font-bold select-none"><span class="text-green-600">&#11044;</span>&emsp;We're online!&ensp;&middot;&ensp;${data.players.online} playing</p>`;
         document.getElementById("serverStatusM").innerHTML = `<p class="font-bold select-none"><span class="text-green-600">&#11044;</span>&emsp;Online, ${data.players.online} playing</p>`;
         {% endif %}
+        if(document.getElementById("serverMap")) {
+            window.location.href = "{{ site.serverMap }}"
+        }
+        if(document.getElementById("serverMap3d")) {
+            window.location.href = "{{ site.serverMap3d }}"
+        }
     }
     else {
         {% if site.siteNav %}
@@ -18,5 +24,8 @@
         document.getElementById("serverStatus").innerHTML = `<p class="font-bold select-none"><span class="text-red-600">&#11044;</span>&emsp;Sorry! We're offline...</p>`;
         document.getElementById("serverStatusM").innerHTML = `<p class="font-bold select-none"><span class="text-red-600">&#11044;</span>&emsp;Offline</p>`;
         {% endif %}
+        if(document.getElementById("mapstatus")) {
+            document.getElementById("mapstatus").innerHTML = `Sorry, the map is offline :(`
+        }
     }
 });

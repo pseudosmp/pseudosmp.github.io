@@ -1,12 +1,11 @@
 ---
 layout: page
+navname: Map
 ---
 
-# Loading...
+# Checking if map is online...
 
 The map may be offline if this page doesn't load after a few seconds...
+{: #mapstatus}
 
-> ---
-> layout: redirect
-> tourl: http://pseudosmp.serveminecraft.net:368
-> ---
+<div id="serverMap">
