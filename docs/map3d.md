@@ -1,7 +1,7 @@
 ---
 layout: page
 navname: Map
-tourl: http://pseudosmp.serveminecraft.net:369
+tourl: http://play.pseudosmp.com:369
 ---
 
 # Checking if map is online...
