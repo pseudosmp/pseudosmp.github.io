@@ -12,7 +12,7 @@ cellLinks:
     cimage: media/map3d.png
   - cname: Screenshots
     curl: screenshots
-    cimage: media/screenshots.jpg
+    cimage: media/screenshots.png
   - cname: Donate
     curl: about
     cimage: media/demo04.jpg
