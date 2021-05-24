@@ -6,13 +6,13 @@ navname: Home
 cellLinks:
   - cname: 2D Map
     curl: map
-    cimage: media/demo02.jpg
+    cimage: media/map2d.jpg
   - cname: 3D Map
     curl: map3d
-    cimage: media/demo02.jpg
+    cimage: media/map3d.jpg
   - cname: Screenshots
     curl: screenshots
-    cimage: media/demo03.jpg
+    cimage: media/screenshots.jpg
   - cname: Donate
     curl: about
     cimage: media/demo04.jpg
