@@ -4,7 +4,8 @@ navname: About
 ---
 # The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
 
-# 🔶 Features: {: #features }
+# 🔶 Features: 
+{: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
  - 🔸 Vanilla Enhancements (listed later on, keep reading!)
  - 🔸 A spawn world where you can listen to some calm creative mode music (Accept Resource Pack when joining) (Bedrock has problems with world-wide sound so you will not hear sound if you are far from the spawn point)
@@ -21,7 +22,8 @@ navname: About
  - 🔸 Trading system
  - 🔸 Voting Rewards everyday
 
-# 🔷 Vanilla Enhancements: {: #mods }
+# 🔷 Vanilla Enhancements: 
+{: #mods }
  - 🔹 BetterSleeping
  - 🔹 Chairs, /sit, /lay, /crawl and more
  - 🔹 Sleep anywhere with /lay
@@ -34,7 +36,8 @@ navname: About
  - 🔹 Rideable Ravagers
  - 🔹 Beehives hold 5 bees instead of the regular 3
 
-# 🟨 SERVER INFO {: #serverinfo }
+# 🟨 SERVER INFO 
+{: #serverinfo }
  - ◻ IP: play.pseudosmp.com <<<< THANKS TO @SushiDev
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
  - ◻ Uptime: Currently from 8am to 11pm IST, can change if we go for paid hosting (donate pls :D)
@@ -45,7 +48,8 @@ navname: About
  - ◻ Discord Invite: https://dsc.gg/pseudosmp (to invite your lovely friends)
  - ◻ Voting Sites (currently not setup)
 
-# About this site: {: #siteinfo }
+# About this site: 
+{: #siteinfo }
 
 Moonrise is a simple, flexible template website for Minecraft servers.
 
