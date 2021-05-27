@@ -67,3 +67,11 @@ This website does not collect any data, but third party integrations may collect
 
 - Mcsrvstat.us: Displays Minecraft server status
 - TitanEmbeds: Displays Discord server preview
+
+
+
+
+
+#PS
+{: #michaelmomochi}
+ily miccy tysm for this wonderful website ♥
