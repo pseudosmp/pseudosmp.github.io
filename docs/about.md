@@ -44,8 +44,8 @@ navname: About
  - ◻ Resource Pack: Normally, the game will prompt you. If you have problems downloading, here are the links:
   - ✨ [Java (optional)](https://www.dropbox.com/s/r95gjkftrascdqy/musicenchancementpack.zip?dl=1)
   - ✨ [Bedrock (must)](https://www.dropbox.com/s/93yqvkll7ohdjsv/gopplusmep.mcpack?dl=1)
- - ◻ Website: https://www.pseudosmp.com/ (scroll down the website for map links)
- - ◻ Discord Invite: https://dsc.gg/pseudosmp (to invite your lovely friends)
+ - ◻ Website: [you are in the website rn lmao](https://www.pseudosmp.com/) (scroll down the homepage for map links)
+ - ◻ Discord Invite: [https://dsc.gg/pseudosmp](https://dsc.gg/pseudosmp) (to invite your lovely friends)
  - ◻ Voting Sites (currently not setup)
 
 # About this site: 
