@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: Map
+navname: 3dmap
 tourl: http://play.pseudosmp.com:369
 ---
 
