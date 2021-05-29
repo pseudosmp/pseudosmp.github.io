@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: Map
+navname: 2dmap
 tourl: http://play.pseudosmp.com:368
 ---
 
