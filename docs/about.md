@@ -3,7 +3,7 @@ layout: page
 navname: About
 ---
 # The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
-
+This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev) Go support him at [https://www.buymeacoffee.com/sushidev!](https://www.buymeacoffee.com/sushidev)
 # 🔶 Features: 
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
@@ -38,7 +38,7 @@ navname: About
 
 # 🟨 SERVER INFO 
 {: #serverinfo }
- - ◻ IP: play.pseudosmp.com <<<< THANKS TO @SushiDev
+ - ◻ IP: play.pseudosmp.com <<<< THANKS TO [SushiDev](https://www.buymeacoffee.com/sushidev)
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
  - ◻ Uptime: Currently from 8am to 11pm IST, can change if we go for paid hosting (donate pls :D)
  - ◻ Resource Pack: Normally, the game will prompt you. If you have problems downloading, here are the links:
