@@ -63,7 +63,7 @@ a {
 
 @media screen and (min-width: 1024px) {
     .ccinfoframe {
-        width: 500px;
+        width: 45.5vw;
         height: 80vh;
         min-height:600px;
         max-height: 900px;
