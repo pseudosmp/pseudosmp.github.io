@@ -12,8 +12,8 @@ This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev){: t
  - 🔸 Planet Parkour 2 by AmirKaka, enhanced for multiplayer with doDodOdo (Dream speedrun music) (Same problem as mentioned above for Bedrock)
  - 🔸 Three Worlds to choose from:
              - ✨  Normal Mode
-             - ✨  Custom Terrain
              - ✨  HARDCORE MODE
+             - ✨  Speed 255 Challenge
  - 🔸 Land Claiming to prevent griefing
  - 🔸 2D and 3D Maps of the worlds
  - 🔸 Discord to Minecraft and vice versa integration
