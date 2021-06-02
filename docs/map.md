@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 navname: map
 
 cellLinks:
