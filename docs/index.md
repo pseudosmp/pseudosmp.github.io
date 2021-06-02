@@ -4,12 +4,9 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: 2D Map
-    curl: 2dmap
-    cimage: media/map2d.jpg
-  - cname: 3D Map
-    curl: 3dmap
-    cimage: media/map3d.jpg
+  - cname: Server Maps
+    curl: map
+    cimage: media/mapunified.jpg
   - cname: Screenshots
     curl: screenshots
     cimage: media/screenshots.jpg
