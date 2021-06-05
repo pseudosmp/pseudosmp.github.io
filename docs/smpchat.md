@@ -1,5 +1,5 @@
 ---
 layout: historicalchat
-navname: chatarchives/smpchat
+navname: smpchat
 chatArchiveHTML: smpchatold.html
 ---
