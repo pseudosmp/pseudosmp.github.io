@@ -86,15 +86,17 @@ layout: compress
         {% endif %}
 
     </nav>
-
+	<div class="bg-gray-700 px-2 py-1 rounded-lg text-gray-100 shadow transition duration-200 hover:bg-gray-600 hover:shadow-lg cursor-pointer inline-block ml-2 sm:ml-5" onclick="window.history.back()">Go Back</div>
     <div style="padding-left:10%;padding-right:10%;padding-top:1%;padding-bottom:1%">
 		  <iframe src="/chatArchive/{{ page.chat }}" style="border:2px solid white;border-radius:10px;width:100%;height:80vh;" title="chatarchiveiframe"></iframe>
 	  </div>
 
     <div class="layoutfooter w-full pb-8 text-center transition duration-200">
-        <a href="https://github.com/coffeebank/moonrise" rel="noopener" title="Moonrise by coffeebank" class="hover:text-gray-400">Made with ❤️ by michael momochi ☕</a> &middot; 
+        Image in background is not actual gameplay &middot; 
+        <a href="https://github.com/coffeebank/moonrise" rel="noopener" title="Moonrise by coffeebank" class="hover:text-gray-400">Template made with ❤️ by michael momochi ☕</a> &middot; 
         <a href="{% if site.siteFooterlink %}{{ site.baseurl }}{{ site.siteFooterlink }}{% else %}{{ site.baseurl }}/about{% endif %}" rel="noopener" title="Legal" class="hover:text-gray-400">&copy; {{ site.siteYear }}<script>new Date().getFullYear()>{{ site.siteYear }}&&document.write("&#8208;"+new Date().getFullYear());</script> {{ site.serverName }} &middot; About/Contact</a>
     </div>
+
 
     {% if page.navname == "Home" %}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/serverstatus-home.js"></script>
