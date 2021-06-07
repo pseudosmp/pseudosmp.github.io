@@ -41,9 +41,7 @@ This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev){: t
  - ◻ IP: play.pseudosmp.com <<<< THANKS TO [SushiDev](https://www.buymeacoffee.com/sushidev)
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
  - ◻ Uptime: Currently from 8am to 11pm IST, can change if we go for paid hosting (donate pls :D)
- - ◻ Resource Pack: Normally, the game will prompt you. If you have problems downloading, here are the links:
-  - ✨ [Java (optional)](https://www.dropbox.com/s/r95gjkftrascdqy/musicenchancementpack.zip?dl=1)
-  - ✨ [Bedrock (must)](https://www.dropbox.com/s/93yqvkll7ohdjsv/gopplusmep.mcpack?dl=1)
+ - ◻ Resource Pack (needed only for bedrock to add missing textures): [https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack](https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack)
  - ◻ Website: [you are in the website rn lmao](https://www.pseudosmp.com/)
  - ◻ Website: [https://www.pseudosmp.com/map](https://www.pseudosmp.com/map)
  - ◻ Discord Invite: [https://dsc.gg/pseudosmp](https://dsc.gg/pseudosmp) (to invite your lovely friends)
