@@ -18,4 +18,17 @@ cellLinks:
   - cname: Minecraft Buzz
     curl: https://minecraft.buzz/server/1660&tab=vote
     cnewtab: true
+  - cname: MC Server List (Get Paid)
+    curl: https://mc-server-list.com/server/658-The+Pseudo+Force+SMP/vote/
+    cnewtab: true
+  - cname: Minecraft-Server.net
+    curl: https://minecraft-server.net/vote/PseudoSMP/
+    cnewtab: true
+  - cname: MinecraftList.org
+    curl: https://minecraftlist.org/vote/23265
+    cnewtab: true
+  - cname: Minecraft Multiplayer
+    curl: https://minecraft-mp.com/server/287259/vote/
+    cnewtab: true
+
 ---
