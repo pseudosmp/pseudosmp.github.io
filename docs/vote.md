@@ -30,5 +30,7 @@ cellLinks:
   - cname: Minecraft Multiplayer
     curl: https://minecraft-mp.com/server/287259/vote/
     cnewtab: true
-
+  - cname: MinecraftSurvivalServers.com
+    curl: https://minecraftsurvivalservers.com/vote/70
+    cnewtab: true
 ---
