@@ -16,6 +16,6 @@ cellLinks:
     curl: https://www.planetminecraft.com/server/java-amp-bedrock-the-pseudo-force-smp/vote/
     cnewtab: true
   - cname: Minecraft Buzz
-    curl: 
+    curl: https://minecraft.buzz/server/1660&tab=vote
     cnewtab: true
 ---
