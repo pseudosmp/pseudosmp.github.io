@@ -5,17 +5,17 @@ navname: map
 cellLinks:
   - cname: MinecraftServers.org
     curl: https://minecraftservers.org/vote/616016
-    cimage: 
+    cnewtab: true
   - cname: MinecraftPocket-Servers.com
     curl: https://minecraftpocket-servers.com/server/111000/vote/
-    cimage: 
+    cnewtab: true
   - cname: TopMinecraftServers
     curl: http://topminecraftservers.org/vote/18209
-    cimage: 
+    cnewtab: true
   - cname: Planet Minecraft
     curl: https://www.planetminecraft.com/server/java-amp-bedrock-the-pseudo-force-smp/vote/
-    cimage: 
+    cnewtab: true
   - cname: Minecraft Buzz
     curl: 
-    cimage: 
+    cnewtab: true
 ---
