@@ -5,7 +5,7 @@ navname: map
 tabTitle: 'Server Maps - The Pseudo Force SMP'
 ogTitle: 'Server Maps - The Pseudo Force SMP'
 ogDesc: '2D and 3D maps of the worlds in our Minecraft server'
-ogImg: 
+ogImg: https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/81/Map_%28item%29_BE3.png/revision/latest?cb=20191129205618
 ogURL: map
 
 cellLinks:
