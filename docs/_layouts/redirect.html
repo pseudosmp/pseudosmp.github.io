@@ -14,6 +14,15 @@
        }
      </style>
      <title>Page Redirection</title>
+     <meta name="description" content="{{ page.ogDesc }}">
+     <link rel="shortcut icon" href="{{ site.baseurl }}/media/favicon.ico" />
+     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/media/apple-touch-icon.png">
+
+     <!-- social media -->
+     <meta property="og:title" content="{{ page.ogTitle }}">
+     <meta property="og:description" content="{{ page.ogDesc }}">
+     <meta property="og:image" content="{{ page.ogImg }}">
+     <meta property="og:url" content="{{ site.url }}{{ page.ogURL }}">	
  </head>
  <body>
    If you are not redirected automatically, follow <a href='{{ page.tourl }}'>this link</a>.
