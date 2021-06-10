@@ -1,3 +1,6 @@
+
+# [CLICK HERE FOR MOONRISE, THIS IS NOT MOONRISE!](https://github.com/coffeebank/moonrise/)
+
 ![Moonrise logo](docs/media/favicon.ico) 
 
 # Moonrise
