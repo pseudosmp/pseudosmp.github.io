@@ -1,6 +1,12 @@
 ---
 layout: voteclinks
-navname: map
+navname: vote
+
+tabTitle: 'Vote for The Pseudo Force SMP'
+ogTitle: 'Vote for The Pseudo Force SMP'
+ogDesc: 'Vote for us in voting sites and help us grow our community! Also get rewards for doing so!'
+ogImg: 
+ogURL: vote
 
 cellLinks:
   - cname: MinecraftServers.org
