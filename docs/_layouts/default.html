@@ -7,8 +7,8 @@ layout: compress
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.serverName }}</title>
-    <meta name="description" content="{{ site.serverDescription }}">
+    <title>{{ page.tabTitle }}</title>
+    <meta name="description" content="{{ page.ogDesc }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/media/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/media/apple-touch-icon.png">
 
@@ -28,10 +28,10 @@ layout: compress
     <meta name="theme-color" content="#272727">
 
     <!-- social media -->
-    <meta property="og:title" content="{{ site.serverName }} - Minecraft Server">
-    <meta property="og:description" content="{{ site.serverDescription }}">
-    <meta property="og:image" content="{{ site.baseurl }}{{ site.siteIcon }}">
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+    <meta property="og:title" content="{{ page.ogTitle }}">
+    <meta property="og:description" content="{{ page.ogDesc }}">
+    <meta property="og:image" content="{{ page.ogImg }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.ogURL }}">
 
 </head>
 
