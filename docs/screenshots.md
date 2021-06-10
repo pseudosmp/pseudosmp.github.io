@@ -1,6 +1,13 @@
 ---
 layout: page
 navname: Screenshots
+
+tabTitle: 'Screenshots - The Pseudo Force SMP'
+ogTitle: 'Screenshots - The Pseudo Force SMP'
+ogDesc: 'Some gameplay screenshots of our Minecraft server'
+ogImg: https://static.thenounproject.com/png/28423-200.png
+ogURL: Screenshots
+
 ---
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">

@@ -1,27 +1,30 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<html>
+ <head>
+     <meta charset="utf-8"/>
+     <meta http-equiv="refresh" content="1;url={{ page.tourl }}"/>
+     <link rel="canonical" href="{{ page.tourl }}"/>
+     <script type="text/javascript">
+             window.location.href = "{{ page.tourl }}"
+     </script>
+     <style>
+       body {
+         width: 100%;
+         text-align: center;
+         font-family: 'Segoe UI', Helvetica, 'Trebuchet MS', Arial, sans-serif;
+       }
+     </style>
+     <title>Page Redirection</title>
+     <meta name="description" content="{{ page.ogDesc }}">
+     <link rel="shortcut icon" href="{{ site.baseurl }}/media/favicon.ico" />
+     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/media/apple-touch-icon.png">
 
-<head>
-  <meta charset="utf-8">
-  <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="{{ page.tourl }}">
-  <script>location = "{{ page.tourl }}"</script>
-  <meta http-equiv="refresh" content="0; url={{ page.tourl }}">
-  <meta name="robots" content="noindex">
-  <style>
-    body {
-      width: 100%;
-      text-align: center;
-      font-family: 'Segoe UI', Helvetica, 'Trebuchet MS', Arial, sans-serif;
-    }
-  </style>
-</head>
-
-<body>
-  <div style="padding: 20px">
-    <h1 style="color:#36462c;">Redirecting&hellip;</h1>
-    <a href="{{ page.tourl }}">Click here if you are not redirected.</a>
-  </div>
-</body>
-
-</html>
+     <!-- social media -->
+     <meta property="og:title" content="{{ page.ogTitle }}">
+     <meta property="og:description" content="{{ page.ogDesc }}">
+     <meta property="og:image" content="{{ page.ogImg }}">
+     <meta property="og:url" content="{{ site.url }}{{ page.ogURL }}">	
+ </head>
+ <body>
+   If you are not redirected automatically, follow <a href='{{ page.tourl }}'>this link</a>.
+ </body>
+ </html>

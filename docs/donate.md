@@ -1,4 +1,5 @@
 ---
 layout: redirect
-tourl: https://ko-fi.com/
+navname: donate
+tourl: https://donate.pseudosmp.com
 ---

@@ -7,8 +7,8 @@ layout: compress
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.tabTitle }}</title>
-    <meta name="description" content="{{ page.ogDesc }}">
+    <title>{{ site.serverName }}</title>
+    <meta name="description" content="{{ site.serverDescription }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/media/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/media/apple-touch-icon.png">
 
@@ -28,10 +28,10 @@ layout: compress
     <meta name="theme-color" content="#272727">
 
     <!-- social media -->
-    <meta property="og:title" content="{{ page.ogTitle }}">
-    <meta property="og:description" content="{{ page.ogDesc }}">
-    <meta property="og:image" content="{{ page.ogImg }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.ogURL }}">
+    <meta property="og:title" content="{{ site.serverName }} - Minecraft Server">
+    <meta property="og:description" content="{{ site.serverDescription }}">
+    <meta property="og:image" content="{{ site.baseurl }}{{ site.siteIcon }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
 
 </head>
 
@@ -86,14 +86,17 @@ layout: compress
         {% endif %}
 
     </nav>
-
-    {{ content }}
+	<div class="bg-gray-700 px-2 py-1 rounded-lg text-gray-100 shadow transition duration-200 hover:bg-gray-600 hover:shadow-lg cursor-pointer inline-block ml-2 sm:ml-5"><a href="https://www.pseudosmp.com/oldchats/">Go Back</a></div>
+    <div style="padding-left:10%;padding-right:10%;padding-top:1%;padding-bottom:1%">
+		  <iframe src="/chatArchive/{{ page.chat }}" style="border:2px solid white;border-radius:10px;width:100%;height:80vh;" title="chatarchiveiframe"></iframe>
+	  </div>
 
     <div class="layoutfooter w-full pb-8 text-center transition duration-200">
         Image in background is not actual gameplay &middot; 
         <a href="https://github.com/coffeebank/moonrise" rel="noopener" title="Moonrise by coffeebank" class="hover:text-gray-400">Template made with ❤️ by michael momochi ☕</a> &middot; 
         <a href="{% if site.siteFooterlink %}{{ site.baseurl }}{{ site.siteFooterlink }}{% else %}{{ site.baseurl }}/about{% endif %}" rel="noopener" title="Legal" class="hover:text-gray-400">&copy; {{ site.siteYear }}<script>new Date().getFullYear()>{{ site.siteYear }}&&document.write("&#8208;"+new Date().getFullYear());</script> {{ site.serverName }} &middot; About/Contact</a>
     </div>
+
 
     {% if page.navname == "Home" %}
     <script type="text/javascript" src="{{ site.baseurl }}/assets/serverstatus-home.js"></script>
