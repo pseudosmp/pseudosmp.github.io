@@ -68,6 +68,12 @@ a {
     height: 200px;
 }
 
+.visited\:bg-gray-600 {
+    --bg-opacity: 1;
+    background-color: #718096;
+    background-color: rgba(113,128,150,var(--bg-opacity));
+}
+
 @media screen and (min-width: 1024px) {
     .ccinfoframe {
         width: 45.5vw;
