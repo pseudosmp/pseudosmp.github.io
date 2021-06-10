@@ -1,6 +1,13 @@
 ---
 layout: page
 navname: About
+
+tabTitle: 'About The Pseudo Force SMP'
+ogTitle: 'About The Pseudo Force SMP'
+ogDesc: 'Info and Story behind the SMP server that we believe will bring the Java and Bedrock community together'
+ogImg: https://github.com/pseudoforceyt/moonrise/blob/master/docs/media/android-chrome-192x192.png?raw=true
+ogURL: about
+
 ---
 # The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
 This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"} Go support him at [https://www.buymeacoffee.com/sushidev!](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"}
