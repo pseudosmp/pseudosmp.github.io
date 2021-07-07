@@ -10,6 +10,6 @@ ogURL: savethesushi
 
 ---
 # Save The Sushi Campaign
-This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"} Go support him at [https://www.buymeacoffee.com/sushidev!](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"}
+This domain is powered by [SushiDev.](https://discord.com/users/825274502081544193){: target="_blank" rel="noopener"}
 
-Every day, every hour, every minute, every second, a Sushi is pinged in a Discord server. Together we can stop this. You can support by donating how much ever money you can at [https://www.buymeacoffee.com/sushidev!](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"}
+Every day, every hour, every minute, every second, a Sushi is pinged in a Discord server. Together we can stop this. You can support by joining the Moreslandia minecraft server at [https://dsc.gg/moreslandia!](https://dsc.gg/moreslandia){: target="_blank" rel="noopener"}
