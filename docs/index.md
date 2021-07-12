@@ -10,13 +10,10 @@ ogURL:
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Server Maps
-    curl: map
-    cimage: media/mapunified.jpg
   - cname: Screenshots
     curl: screenshots
     cimage: media/screenshots.jpg
-  - cname: Donate
-    curl: donate
+  - cname: Hosting Helpers Shop
+    curl: https://lumismp.tebex.io
     cimage: media/demo04.jpg
 ---
