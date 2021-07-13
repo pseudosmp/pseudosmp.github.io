@@ -14,6 +14,6 @@ cellLinks:
     curl: screenshots
     cimage: media/screenshots.jpg
   - cname: Hosting Helpers Shop
-    curl: https://lumismp.tebex.io
+    curl: https://lumi.tebex.io
     cimage: media/demo04.jpg
 ---
