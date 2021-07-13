@@ -10,7 +10,7 @@ ogURL: about
 
 ---
 # The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
-This domain is powered by [SushiDev.](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"} Go support him at [https://www.buymeacoffee.com/sushidev!](https://www.buymeacoffee.com/sushidev){: target="_blank" rel="noopener"}
+This server is powered by SushiDev.
 # 🔶 Features: 
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
