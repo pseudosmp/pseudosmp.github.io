@@ -27,8 +27,6 @@ discordChannelID: 846311576725356615
 # #   newtab - Whether link should open in new tab
 # 
 siteNav:
-   - name: home
-     url: 
    - name: About
      url: about
    - name: Donate
