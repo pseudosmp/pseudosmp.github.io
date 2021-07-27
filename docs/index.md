@@ -16,4 +16,6 @@ cellLinks:
   - cname: Hosting Helpers Shop
     curl: https://lumi.tebex.io
     cimage: media/demo04.jpg
+  - cname: Guide
+    curl: https://guide.pseudosmp.com
 ---
