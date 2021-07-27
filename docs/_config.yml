@@ -32,6 +32,9 @@ siteNav:
    - name: Donate
      url: donate
      newtab: true
+   - name: Guide
+     url: https://guide.pseudosmp.com
+     newtab: true
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
