@@ -16,6 +16,7 @@ Go check it out at [https://github.com/coffeebank/moonrise/](https://github.com/
 #### Services
 - https://api.mcsrvstat.us/
 - https://widgetbot.io/
+- https://titanembeds.com
 
 #### Assets
 - https://clipboardjs.com/
