@@ -1,7 +1,7 @@
 
 # [CLICK HERE FOR MOONRISE, THIS IS NOT MOONRISE!](https://github.com/coffeebank/moonrise/)
 
-![Moonrise logo](https://github.com/coffeebank/moonrise/tree/master/docs/media/favicon.ico) 
+![Moonrise logo](https://github.com/coffeebank/moonrise/blob/master/docs/media/favicon.ico) 
 
 # Moonrise
 
