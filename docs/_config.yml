@@ -14,6 +14,7 @@ showinSearchEngines: true
 serverName: The Pseudo Force SMP
 serverDescription: Fun Cross-Platform Survival Multiplayer!
 serverIP: play.pseudosmp.com
+useBedrockForOnlineStatus: false
 
 
 # Discord information
