@@ -11,6 +11,9 @@ body {
     text-align: center;
     cursor: pointer;
     transition: all 0.1s ease-in-out;
+    position: fixed;
+    bottom: -20px;
+    right: 4px;
     span {
       line-height: 50px;
       font-family: "Jost", sans-serif;
