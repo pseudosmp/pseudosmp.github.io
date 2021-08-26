@@ -30,8 +30,8 @@ discordChannelID: 846311576725356615
 siteNav:
    - name: About
      url: about
-   - name: Donate
-     url: donate
+   - name: 'Help us'
+     url: hostinghelp
      newtab: true
    - name: Guide
      url: https://guide.pseudosmp.com
