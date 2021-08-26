@@ -21,4 +21,5 @@ cellLinks:
     cimage: media/helpus.jpg
   - cname: Guide
     curl: https://guide.pseudosmp.com
+    cimage: media/guide.jpg
 ---
