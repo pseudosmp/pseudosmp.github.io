@@ -1,5 +1,5 @@
 ---
 layout: redirect
-navname: donate
+navname: hostinghelp
 tourl: https://lumismp.wixsite.com/store
 ---
