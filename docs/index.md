@@ -10,12 +10,15 @@ ogURL:
 
 # Cells at the bottom of the page
 cellLinks:
+  - cname: Map
+    curl: map
+    cimage: media/map.jpg
   - cname: Screenshots
     curl: screenshots
     cimage: media/screenshots.jpg
   - cname: Hosting Helpers Shop
-    curl: https://lumi.tebex.io
-    cimage: media/demo04.jpg
+    curl: hostinghelp
+    cimage: media/helpus.jpg
   - cname: Guide
     curl: https://guide.pseudosmp.com
 ---
