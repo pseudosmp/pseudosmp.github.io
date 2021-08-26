@@ -1,5 +1,5 @@
 ---
 layout: redirect
 navname: donate
-tourl: http://donate.pseudosmp.com
+tourl: https://lumismp.wixsite.com/store
 ---
