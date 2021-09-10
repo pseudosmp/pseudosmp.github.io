@@ -14,15 +14,11 @@ This server is powered by SushiDev.
 # 🔶 Features: 
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
+ - 🔸 1.18 Custom Terrain [[Screenshots]](https://pseudosmp.com/screenshots)
+ - 🔸 Nether Custom Terrain [[Screenshots]](https://pseudosmp.com/screenshots)
  - 🔸 Vanilla Enhancements (listed later on, keep reading!)
- - 🔸 A spawn world where you can listen to some calm creative mode music (Accept Resource Pack when joining) (Bedrock has problems with world-wide sound so you will not hear sound if you are far from the spawn point)
- - 🔸 Planet Parkour 2 by AmirKaka, enhanced for multiplayer with doDodOdo (Dream speedrun music) (Same problem as mentioned above for Bedrock)
- - 🔸 Three Worlds to choose from:
-             - ✨  Normal Mode
-             - ✨  HARDCORE MODE
-             - ✨  Speed 255 Challenge
  - 🔸 Land Claiming to prevent griefing
- - 🔸 2D and 3D Maps of the worlds
+ - 🔸 Map of the world
  - 🔸 Discord to Minecraft and vice versa integration
  - 🔸 Proximity Voice chat
  - 🔸 Certified Detective™️ to help out on crime scenes (CoreProtect)
@@ -42,17 +38,41 @@ This server is powered by SushiDev.
  - 🔹 AFK Protection
  - 🔹 Rideable Ravagers
  - 🔹 Beehives hold 5 bees instead of the regular 3
+ - 🔹 Armor Hotswap
+ - 🔹 Reach-around block placement (yes server side) (no you cannot godbridge like in bedrock)
+ - 🔹 Custom Shaped Nether Portals
+ - 🔹 Note block gives mob sounds if mob head is placed on the note block
+ - 🔹 Custom music discs on request
+ - 🔹 Automatic replanting of grown crops (just right click :D)
+ - 🔹 Your items dont scatter on death! They are safely stored in your grave for 10 minutes
+ - 🔹 Place ladders while climbing down
+ - 🔹 Swing through grass
+ - 🔹 Coordinate HUD (you can disable it if you already have a client side mod or if you are a bedrock player)
+ - 🔹 Burn the tip of the vine to stop it from growing
+ - 🔹 Bottled cloud which allow you to place it and temporarily stand on it
+ - 🔹 Creepers have a 10% chance to throw confetti instead of exploding :P
+ - 🔹 You can pat dogs and cats
+ - 🔹 Compass works in end
+ - 🔹 Edit signs
+ - 🔹 Diamond and netherite hoes now harvest a 9x9 area
+ - 🔹 Realistic animals (if you hit one others run away)
+ - 🔹 Better armor stands! (poses like in bedrock, make them hold items and stuff)
+ - 🔹 Bedrock Trident mechanics (loyalty void save, bedrock impaling, bedrock drop chance, tridents dont go through portals)
+ - 🔹 Find slime chunks by right clicking on blocks with a slime ball (or level up to get slime chunk map!)
+ - 🔹 Trees now obey gravity! (Newton would be happy)
+ - 🔹 No garbage in Tab-complete, only the commands you need!
+ - 🔹 Per-player loot - Never ever return bare hand from a looted desert temple!
 
 # 🟨 SERVER INFO 
 {: #serverinfo }
- - ◻ IP: play.pseudosmp.com <<<< THANKS TO [SushiDev](https://www.buymeacoffee.com/sushidev)
+ - ◻ IP: play.pseudosmp.com <<<< THANKS TO SushiDev!
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
- - ◻ Uptime: Currently from 8am to 11pm IST, can change if we go for paid hosting (donate pls :D)
- - ◻ Resource Pack (needed only for bedrock to add missing textures): [https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack](https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack)
+ - ◻ Uptime: 24/7 THANKS TO SushiDev!
+ - ◻ Resource Pack (Will be updated frequently, check discord for the latest resource pack!)
  - ◻ Website: [you are in the website rn lmao](https://www.pseudosmp.com/)
- - ◻ Website: [https://www.pseudosmp.com/map](https://www.pseudosmp.com/map)
+ - ◻ Map: [https://map.pseudosmp.com/](https://map.pseudosmp.com/)
  - ◻ Discord Invite: [https://dsc.gg/pseudosmp](https://dsc.gg/pseudosmp) (to invite your lovely friends)
- - ◻ Voting Sites (currently not setup)
+ - ◻ Voting Sites [https://pseudosmp.com/vote](https://pseudosmp.com/vote)
 
 # About this site: 
 {: #siteinfo }
