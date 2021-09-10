@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 navname: About
 
 tabTitle: 'About The Pseudo Force SMP'
