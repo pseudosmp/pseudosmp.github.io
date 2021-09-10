@@ -39,7 +39,4 @@ cellLinks:
   - cname: MinecraftSurvivalServers.com
     curl: https://minecraftsurvivalservers.com/vote/70
     cnewtab: true
-  - cname: Minecraft-server-list
-    curl: https://minecraft-server-list.com/server/478093/vote/
-    cnewtab: true	
 ---
