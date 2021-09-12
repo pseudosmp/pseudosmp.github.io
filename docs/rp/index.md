@@ -10,9 +10,9 @@ ogURL: rp
 
 cellLinks:
   - cname: Java
-    curl: /java.zip
+    curl: https://github.com/pseudoforceyt/smp/raw/master/docs/rp/java.zip
     cnewtab: true
   - cname: Bedrock
-    curl: /br.mcpack
+    curl: https://github.com/pseudoforceyt/smp/raw/master/docs/rp/br.mcpack
     cnewtab: true
 ---
