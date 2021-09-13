@@ -11,7 +11,7 @@ ogURL: about
 ---
 # The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
 This server is powered by SushiDev.
-# 🔶 Features: 
+# 🔶 Features: [🔗](https://pseudosmp.com/about#features)
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
  - 🔸 1.18 Custom Terrain [[Screenshots]](https://pseudosmp.com/screenshots)
@@ -25,7 +25,7 @@ This server is powered by SushiDev.
  - 🔸 Trading system
  - 🔸 Voting Rewards everyday
 
-# 🔷 Vanilla Enhancements: 
+# 🔷 Vanilla Enhancements: [🔗](https://pseudosmp.com/about#mods)
 {: #mods }
  - 🔹 BetterSleeping
  - 🔹 Chairs, /sit, /lay, /crawl and more
@@ -63,7 +63,7 @@ This server is powered by SushiDev.
  - 🔹 No garbage in Tab-complete, only the commands you need!
  - 🔹 Per-player loot - Never ever return bare hand from a looted desert temple!
 
-# 🟨 SERVER INFO 
+# 🟨 SERVER INFO [🔗](https://pseudosmp.com/about#serverinfo)
 {: #serverinfo }
  - ◻ IP: play.pseudosmp.com <<<< THANKS TO SushiDev!
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
@@ -74,7 +74,7 @@ This server is powered by SushiDev.
  - ◻ Discord Invite: [https://dsc.gg/pseudosmp](https://dsc.gg/pseudosmp) (to invite your lovely friends)
  - ◻ Voting Sites [https://pseudosmp.com/vote](https://pseudosmp.com/vote)
 
-# About this site: 
+# About this site: [🔗](https://pseudosmp.com/about#siteinfo)
 {: #siteinfo }
 
 Moonrise is a simple, flexible template website for Minecraft servers.
@@ -98,6 +98,6 @@ This website does not collect any data, but third party integrations may collect
 
 
 
-# PS
+# PS [🔗](https://pseudosmp.com/about#michaelmomochi)
 {: #michaelmomochi }
 ily miccy tysm for this wonderful website ♥
