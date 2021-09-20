@@ -10,7 +10,7 @@ ogURL: about
 
 ---
 ## The Pseudo Force SMP is a fun Minecraft Survival Multiplayer server. It was created as a community server for the Pseudo Force YT Channel chain but made public later on.
-This server is powered by SushiDev.
+This server is powered by SillySushi.
 ### 🔶 Features: [🔗](https://pseudosmp.com/about#features)
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
@@ -65,9 +65,9 @@ This server is powered by SushiDev.
 
 ### 🟨 SERVER INFO [🔗](https://pseudosmp.com/about#serverinfo)
 {: #serverinfo }
- - ◻ IP: play.pseudosmp.com <<<< THANKS TO SushiDev!
+ - ◻ IP: play.pseudosmp.com <<<< THANKS TO SillySushi!
  - ◻ Port: Default [leave blank for Java (25565) and don't change for Bedrock (19132)]
- - ◻ Uptime: 24/7 THANKS TO SushiDev!
+ - ◻ Uptime: 24/7 THANKS TO SillySushi!
  - ◻ Resource Pack (Will be updated frequently, check discord for the latest resource pack!)
  - ◻ Website: [you are in the website rn lmao](https://www.pseudosmp.com/)
  - ◻ Map: [https://map.pseudosmp.com/](https://map.pseudosmp.com/)
