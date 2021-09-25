@@ -39,7 +39,7 @@ cellLinks:
   - cname: MinecraftSurvivalServers.com
     curl: https://minecraftsurvivalservers.com/vote/70
     cnewtab: true
-  - cname Minestatus.net
+  - cname: Minestatus.net
     curl: https://minestatus.net/server/vote/play.pseudosmp.com
     cnewtab: true
 ---
