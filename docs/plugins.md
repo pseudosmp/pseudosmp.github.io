@@ -2,7 +2,9 @@
 layout: about
 navname: plugins
 ---
-##### told ya it will come soon
+##### told ya it would come soon
+# Plugins
+### Special thanks to [mfnalex#0001](https://discord.jeff-media.com) for giving us all of his plugins in this list for free
 
 - [AdvancedBan]()
 - [ajParkour]()
@@ -76,3 +78,6 @@ navname: plugins
 - [WorldEdit]()
 - [WorldGuard]()
 - [WorldGuardExtraFlags]()
+
+###### if you really want to rip off my server, there ya go lol
+###### if you want to exploit my server, you wont even last a second. good luck
