@@ -18,7 +18,7 @@ useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://www.pseudosmp.com/discord
+discordInvite: https://pseudosmp.com/discord
 discordServerID: 842779800694947840
 discordChannelID: 846311576725356615
 
@@ -30,6 +30,8 @@ discordChannelID: 846311576725356615
 siteNav:
    - name: About
      url: about
+   - name: Vote
+     url: vote
    - name: 'Help us'
      url: hostinghelp
      newtab: true
