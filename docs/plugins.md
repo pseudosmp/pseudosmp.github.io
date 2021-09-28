@@ -79,5 +79,5 @@ navname: plugins
 - [WorldGuard]()
 - [WorldGuardExtraFlags]()
 
-###### if you really want to rip off my server, there ya go lol
-###### if you want to exploit my server, you wont even last a second. good luck
+###### if you really want to rip off our server, there ya go lol
+###### if you want to exploit our server, you wont even last a second. good luck
