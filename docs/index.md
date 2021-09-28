@@ -16,10 +16,12 @@ cellLinks:
   - cname: Screenshots
     curl: screenshots
     cimage: media/screenshots.jpg
-  - cname: Hosting Helpers Shop
-    curl: hostinghelp
-    cimage: media/helpus.jpg
+  - cname: Vote
+    curl: vote
   - cname: Guide
     curl: https://guide.pseudosmp.com
     cimage: media/guide.jpg
+  - cname: Hosting Helpers Shop
+    curl: hostinghelp
+    cimage: media/helpus.jpg
 ---
