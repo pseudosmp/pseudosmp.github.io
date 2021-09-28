@@ -80,5 +80,5 @@ navname: plugins
 
 ###### ᶦᶠ ʸᵒᵘ ʳᵉᵃˡˡʸ ʷᵃⁿᵗ ᵗᵒ ʳᶦᵖ ᵒᶠᶠ ᵒᵘʳ ˢᵉʳᵛᵉʳ, ᵗʰᵉʳᵉ ʸᵃ ᵍᵒ ˡᵒˡ 
 ###### ᶦᶠ ʸᵒᵘ ʷᵃⁿᵗ ᵗᵒ ᵉˣᵖˡᵒᶦᵗ ᵒᵘʳ ˢᵉʳᵛᵉʳ, ʸᵒᵘ ʷᵒⁿᵗ ᵉᵛᵉⁿ ˡᵃˢᵗ ᵃ ˢᵉᶜᵒⁿᵈ. ᵍᵒᵒᵈ ˡᵘᶜᵏ
-* - read first line of the page
-** - Paid
+* : read first line of the page
+** : Paid
