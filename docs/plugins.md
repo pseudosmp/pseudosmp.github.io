@@ -4,7 +4,7 @@ navname: plugins
 ---
 ##### told ya it would come soon
 # Plugins
-### Special thanks to [mfnalex#0001](https://discord.jeff-media.com) for giving us all of his plugins in this list for free
+#### Special thanks to [mfnalex#0001](https://discord.jeff-media.com) for giving us all of his plugins in this list for free
 
 - [AdvancedBan]()
 - [ajParkour]()
@@ -79,5 +79,5 @@ navname: plugins
 - [WorldGuard]()
 - [WorldGuardExtraFlags]()
 
-###### if you really want to rip off our server, there ya go lol
-###### if you want to exploit our server, you wont even last a second. good luck
+###### ᶦᶠ ʸᵒᵘ ʳᵉᵃˡˡʸ ʷᵃⁿᵗ ᵗᵒ ʳᶦᵖ ᵒᶠᶠ ᵒᵘʳ ˢᵉʳᵛᵉʳ, ᵗʰᵉʳᵉ ʸᵃ ᵍᵒ ˡᵒˡ 
+###### ᶦᶠ ʸᵒᵘ ʷᵃⁿᵗ ᵗᵒ ᵉˣᵖˡᵒᶦᵗ ᵒᵘʳ ˢᵉʳᵛᵉʳ, ʸᵒᵘ ʷᵒⁿᵗ ᵉᵛᵉⁿ ˡᵃˢᵗ ᵃ ˢᵉᶜᵒⁿᵈ. ᵍᵒᵒᵈ ˡᵘᶜᵏ
