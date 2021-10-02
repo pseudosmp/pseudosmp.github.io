@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 navname: thankyou
 
 tabTitle: 'Thank You - The Pseudo Force SMP'
@@ -10,4 +10,4 @@ ogURL: thankyou
 ---
 
 <img src="https://media.discordapp.net/attachments/837210619257683988/893824385113292810/Thank-new-yellow-black.png?width=450&height=450" />
-###Join our Discord at [https://dsc.gg/pseudoforceyt](https://dsc.gg/pseudoforceyt)
+### This server is now no more. World download at [LINK COMING SOON] Join our Discord at [https://dsc.gg/pseudoforceyt](https://dsc.gg/pseudoforceyt) to chat with the staff. Thank you for your support!
