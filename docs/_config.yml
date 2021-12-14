@@ -28,8 +28,15 @@ discordChannelID: 846311576725356615
 # #   newtab - Whether link should open in new tab
 # 
 siteNav:
-   - name: Discord
-     url: https://discord.gg/XK3AKb7
+   - name: About
+     url: about
+   - name: Vote
+     url: vote
+   - name: 'Help us'
+     url: hostinghelp
+     newtab: true
+   - name: Guide
+     url: https://guide.pseudosmp.com
      newtab: true
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
