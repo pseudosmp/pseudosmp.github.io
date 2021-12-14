@@ -35,6 +35,9 @@ siteNav:
    - name: Guide
      url: https://guide.pseudosmp.com
      newtab: true
+   - name: Discord
+     url: https://dsc.gg/pseudosmp
+     newtab: true
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
