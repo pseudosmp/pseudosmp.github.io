@@ -1,7 +1,7 @@
 ---
 layout: redirect
 navname: discord
-tourl: https://discord.gg/sZYcDvb6kT
+tourl: https://dsc.gg/pseudosmp
 
 tabTitle: 'The Pseudo Force SMP Discord Server'
 ogTitle: 'The Pseudo Force SMP Discord Server'
