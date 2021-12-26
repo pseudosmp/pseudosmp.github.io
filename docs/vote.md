@@ -10,19 +10,19 @@ ogURL: vote
 
 cellLinks:
   - cname: MinecraftServers.org
-    curl: https://minecraftservers.org/vote/616016
+    curl: https://minecraftservers.org/vote/629308
     cnewtab: true
   - cname: MinecraftPocket-Servers.com
-    curl: https://minecraftpocket-servers.com/server/111000/vote/
+    curl: https://minecraftpocket-servers.com/server/115079/vote/
     cnewtab: true
   - cname: TopMinecraftServers
-    curl: http://topminecraftservers.org/vote/18209
+    curl: http://topminecraftservers.org/vote/23854
     cnewtab: true
   - cname: Planet Minecraft
-    curl: https://www.planetminecraft.com/server/java-amp-bedrock-the-pseudo-force-smp/vote/
+    curl: https://www.planetminecraft.com/server/the-pseudo-force-smp-bedrock-amp-java/vote/
     cnewtab: true
   - cname: Minecraft Buzz
-    curl: https://minecraft.buzz/server/1660&tab=vote
+    curl: https://minecraft.buzz/server/3653&tab=vote
     cnewtab: true
   - cname: MC Server List (Get Paid)
     curl: https://mc-server-list.com/server/658-The+Pseudo+Force+SMP/vote/
