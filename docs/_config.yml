@@ -38,6 +38,12 @@ siteNav:
    - name: Discord
      url: discord
      newtab: true
+   - name: Stats
+     url: stats
+     newtab: true
+   - name: Map
+     url: map
+     newtab: true
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
