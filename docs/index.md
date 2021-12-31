@@ -21,7 +21,6 @@ cellLinks:
   - cname: Guide
     curl: https://guide.pseudosmp.com
     cimage: media/guide.jpg
-  - cname: Hosting Helpers Shop
-    curl: hostinghelp
-    cimage: media/helpus.jpg
+  - cname: Stats
+    curl: https://stats.pseudosmp.com
 ---
