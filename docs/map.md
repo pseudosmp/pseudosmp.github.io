@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: page
 navname: map
 tourl: https://map.pseudosmp.com
 
