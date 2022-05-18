@@ -2,8 +2,8 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 repository: pseudoforceyt/smp
-url: "https://pseudosmp.com"
-baseurl: ""
+url: "https://pseudoforceyt.github.io"
+baseurl: "/smp"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2022
 siteFooterlink: /about
