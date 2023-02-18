@@ -1,7 +1,7 @@
 ---
 layout: redirect
 navname: map
-tourl: https://map.pseudosmp.com
+tourl: http://pseudosmp.us.to:8100
 
 tabTitle: 'Server Map - The Pseudo Force SMP'
 ogTitle: 'Server Map - The Pseudo Force SMP'
