@@ -10,19 +10,19 @@ ogURL: vote
 
 cellLinks:
   - cname: MinecraftServers.org
-    curl: https://minecraftservers.org/vote/629308
+    curl: https://minecraftservers.org/server/647069
     cnewtab: true
   - cname: MinecraftPocket-Servers.com
-    curl: https://minecraftpocket-servers.com/server/115079/vote/
+    curl: https://minecraftpocket-servers.com/server/122391/vote/
     cnewtab: true
   - cname: TopMinecraftServers
-    curl: http://topminecraftservers.org/vote/23854
+    curl: https://topminecraftservers.org/vote/32196
     cnewtab: true
   - cname: Planet Minecraft
-    curl: https://www.planetminecraft.com/server/the-pseudo-force-smp-bedrock-amp-java/vote/
+    curl: https://www.planetminecraft.com/server/the-pseudo-force-smp-java-amp-bedrock/vote/
     cnewtab: true
   - cname: Minecraft Buzz
-    curl: https://minecraft.buzz/server/3653&tab=vote
+    curl: https://minecraft.buzz/server/6993&tab=vote
     cnewtab: true
   - cname: MC Server List (Get Paid)
     curl: https://mc-server-list.com/server/658-The+Pseudo+Force+SMP/vote/
@@ -34,12 +34,12 @@ cellLinks:
     curl: https://minecraftlist.org/vote/23265
     cnewtab: true
   - cname: Minecraft Multiplayer
-    curl: https://minecraft-mp.com/server/299092/vote/
+    curl: https://minecraft-mp.com/server/315859/vote/
     cnewtab: true
   - cname: MinecraftSurvivalServers.com
     curl: https://minecraftsurvivalservers.com/vote/70
     cnewtab: true
   - cname: Minestatus.net
-    curl: https://minestatus.net/server/vote/play.pseudosmp.com
+    curl: https://minestatus.net/server/vote/pseudosmp.us.to
     cnewtab: true
 ---
