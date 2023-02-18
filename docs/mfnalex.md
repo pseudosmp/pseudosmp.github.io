@@ -1,6 +1,6 @@
 ---
 layout: redirect
-tourl: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+tourl: https://www.youtube.com/watch?v=oHg5SJYRHA0
 navname: mfnalex
 
 tabTitle: 'mfnalex - Great Plugin Developer'
