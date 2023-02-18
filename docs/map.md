@@ -10,3 +10,5 @@ ogImg: https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/81/Map_%28
 ogURL: map
 
 ---
+The link you are being redirected to is a HTTP link, so your browser may mark it as "Not Secure".
+If you are not redirected, the server may not be online. Check again at a later time!
