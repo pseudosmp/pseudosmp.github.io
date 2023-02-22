@@ -12,7 +12,7 @@ cellLinks:
   - cname: MinecraftServers.org
     curl: https://minecraftservers.org/server/647069
     cnewtab: true
-    cimage: media/voteclink.1jpg
+    cimage: media/voteclink1.jpg
   - cname: MinecraftPocket-Servers.com
     curl: https://minecraftpocket-servers.com/server/122391/vote/
     cnewtab: true
