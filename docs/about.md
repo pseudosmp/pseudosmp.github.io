@@ -44,7 +44,7 @@ The Pseudo Force SMP Minecraft Survival Multiplayer server, created as a communi
  - 🔹 Custom Shaped Nether Portals
  - 🔹 Note block gives mob sounds if mob head is placed on the note block
  - 🔹 Custom music discs on request
- - 🔹 Automatic replanting of grown crops using AutoCompostor! (Craft using redstone and compostor)
+ - 🔹 Automatic replanting of grown crops using AutoComposter! (Craft using redstone and composter)
  - 🔹 Your items dont scatter on death! They are safely stored in your grave for 10 minutes
  - 🔹 Creepers have a 10% chance to throw confetti instead of exploding :P
  - 🔹 You can pat dogs and cats
