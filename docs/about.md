@@ -16,7 +16,7 @@ Explore the vast lands of custom terrain with improved structures and landscape!
 
 The Pseudo Force SMP Minecraft Survival Multiplayer server, created as a community server for [the Pseudo Force YouTube channel](https://youtube.com/@pseudoforceyt) team but made public later on. The server's 6th season shutdown gracefully with positive reviews on may of 2022 due to hosting constraints. This season, aptly named "The Revival", is currently running on Minecraft 1.19.3 and compatible with both Java and Bedrock.
 
-#### 🔶 Features: [🔗](https://pseudoforceyt.github.io/smp/about#features)
+### 🔶 Features: [🔗](https://pseudoforceyt.github.io/smp/about#features)
 {: #features }
  - 🔸 FULL SUPPORT for both Java and Bedrock platforms
  - 🔸 Custom Terrain [[Screenshots]](https://pseudoforceyt.github.io/smp/screenshots)
