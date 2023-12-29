@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            18,
+            26
+        ],
+        "description": [
+            {
+                "text": "PseudoSMP Resources",
+                "color": "#ead983"
+            },
+            {
+                "text": " - Textures/l10n\nAdapted from ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs - Sparkles",
+                "color": "#683edd"
+            }
+        ]
+    }
+}

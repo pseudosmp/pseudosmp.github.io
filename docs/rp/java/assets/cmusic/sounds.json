@@ -1,0 +1,12 @@
+{
+    "mcsm.s1.nmc": {
+      "sounds": [
+        "mcsm/s1/nmc"
+      ]
+    },
+    "topaz.singa": {
+      "sounds": [
+        "topaz/singa"
+      ]
+    }
+}
