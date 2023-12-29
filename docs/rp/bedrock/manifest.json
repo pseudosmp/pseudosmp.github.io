@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Optional Bedrock resource pack to extend Geyser functionality",
-        "name": "GeyserOptionalPack",
-        "uuid": "e5f5c938-a701-11eb-b2a3-047d7bb283ba",
+        "description": "Adapted from GeyserOptionalPack",
+        "name": "PseudoSMP Resources",
+        "uuid": "35c9a272-849d-463c-9ba6-5112f8e07318",
         "version": [1, 0, 7],
         "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
-            "description": "GeyserOptionalPack",
+            "description": "PseudoSMP Resources",
             "type": "resources",
-            "uuid": "eebb4ea8-a701-11eb-95ba-047d7bb283ba",
+            "uuid": "fe547293-068a-470b-ad87-59d946681d32",
             "version": [1, 0, 7]
         }
     ]
