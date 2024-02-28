@@ -37,6 +37,7 @@ Here, you will have to set the pack format and give your pack description. The p
 This is an optional file which gives your resource pack an icon. It must be a square png image file (preferrably 128x128) placed alongside pack.mcmeta
 
 ***
+
 Now we can create the `assets` folder. This folder will contain two folders: `minecraft/font/` and `<namespace>/textures/font/` (/ meaning nested folders) (replace namespace with the name you chose. This tutorial uses 'pseudoforceyt')
 The `minecraft/font/default.json` file is where we tell Caxton to replace minecraft's default font with our font.
 
@@ -46,3 +47,28 @@ The `assets/<namespace>/textures/font/` folder is where our font files and each 
 But make sure it has these 4 variants: Regular, Bold, Italic, Bold Italic. It's not a requirement though, if your favourite font does not have any of this variant, you'd have to sacrifice on the formatting. For example, if bold italic is not available, we can substitute it with the bold variant and it would work just fine, but bold italic text and bold text will be indistinguishable.
 
 After you get your font files, make sure to not have any capital letters, non-english characters or symbols other than . or _ in their file names. Then we can write the configuration for them.
+The configuration files must be named as shown. The font name with its extension and then .json.
+![image](https://github.com/pseudoforceyt/smp/assets/70620481/0c6a27e8-8a99-4f02-a4d1-3136bc78c41c)
+
+Putting `{"tech": "msdf"}` in each of these fonts will display them correctly. But if anything is not to your liking - like the size of the font, or if the characters are cutting off, stuff like that. There are finer controls offered by Caxton. We will take a look at the additional options after we finish making our resource pack.
+![image](https://github.com/pseudoforceyt/smp/assets/70620481/559cf880-41bb-4355-8f7d-13e20c361c9d)
+
+#### 4) ```assets/minecraft/font/default.json```
+This is the final piece of the puzzle. [The format can be copied as is from the in-built resource pack of Caxton for now.](https://gitlab.com/Kyarei/caxton/-/blob/master/fabric/src/main/resources/resourcepacks/inter/assets/minecraft/font/default.json?ref_type=heads) Remember 1.20 changed something in the default font provider so the format of this file will be different on 1.20 as compared to prior versions. Make sure you copy it from the resource pack of your minecraft version. 
+
+Then, for each of the `"file":` option, set the value to `"<namespace>:<font_name>"`. Replace <namespace> with the name you chose, and <font_name> with your font's name. (Notice the style mentioned above `"file"` and set the value appropriately!)
+Your file should look like this (1.20):
+![image](https://github.com/pseudoforceyt/smp/assets/70620481/30f9a23d-376e-469b-a32c-afb317946cc2)
+
+(We will look at what `shadow_offset` is later)
+If your font is displayed incorrectly, we would have to configure a few more things.
+
+The pack is now ready for a test run! For easier "debugging", we'll copy just the folder (we don't zip it) to the resourcepacks folder and have it open while our game is running, so we can make quick changes and reload resources to quickly see the change.
+![image](https://github.com/pseudoforceyt/smp/assets/70620481/cc5bb9d2-2904-418a-986e-6e6f40660d52)
+
+After applying the resource pack, you should see your font change. If you don't, you have done something wrong! Check the logs to get more info on where you went wrong, or retrace your steps
+![image](https://github.com/pseudoforceyt/smp/assets/70620481/2340f954-a3fc-4d83-8d90-747b794e63b9)
+
+### Configuration:
+
+[PENDING]
