@@ -12,7 +12,7 @@ ogURL: about
 ### seriously? another season? grow up lol
 
 We welcome you to The Pseudo Force SMP! A certified introvert friendly space™️ because no one joins :(
-Explore the vast lands of custom terrain with improved structures and landscape! Gain skill levels by performing various actions! (not that kind you dirty mind!) Ease the vanilla gameplay a little bit with graves and teleport waypoints (look! someone's been playing a lot of genshin impact lately) Play survival the way you like it!
+Explore the vast lands of custom terrain with improved structures and landscape! Gain skill levels by performing various actions! Ease the vanilla gameplay a little bit with graves and teleport waypoints (look! someone's been playing a lot of genshin impact lately) Play survival the way you like it!
 
 The Pseudo Force SMP Minecraft Survival Multiplayer server, created as a community server for [the Pseudo Force YouTube channel](https://youtube.com/@pseudoforceyt) team but made public later on. The server's 6th season shutdown gracefully with positive reviews on may of 2022 due to hosting constraints. This season, aptly named "The Revival", is currently running on Minecraft 1.19.3 and compatible with both Java and Bedrock.
 
