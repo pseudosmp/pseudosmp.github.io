@@ -11,7 +11,7 @@ ogURL: caxton_tutorial
 
 ### Introduction
 
-Caxton is a mod for the Fabric and (Neo)Forge modloaders, that allows you to change the font in which all text in Minecraft is displayed. The mod supports Windows and Linux with no additional setup. If you are on macOS, [you would have to compile the plugin on your mac, directly from the source.](https://gitlab.com/Kyarei/caxton#building-from-source). Make sure to set additional target `-Dxyz.flirora.caxton.additionalTargets=` as `x86_64-apple-darwin` (for Intel macs) or `aarch64-apple-darwin` (for ARM macs) as per the mac you have.
+Caxton is a mod for the Fabric and (Neo)Forge modloaders, that allows you to change the font in which all text in Minecraft is displayed. The mod supports Windows and Linux with no additional setup. If you are on macOS, [you would have to compile the plugin on your mac, directly from the source.](https://gitlab.com/Kyarei/caxton#building-from-source). Running `gradle build` on a mac should give you a working jar.
 
 The way you change fonts using Caxton is by loading Caxton font resource packs. There are two included fonts which appear in your resource pack selection screen right after you install the mod. You can enable them and see all the fonts changed to your selection.
 ![image](https://raw.githubusercontent.com/pseudoforceyt/smp/master/docs/media/caxton/caxton_1.webp)
