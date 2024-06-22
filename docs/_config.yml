@@ -2,10 +2,10 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 repository: pseudoforceyt/smp
-url: "https://pseudoforceyt.github.io"
-baseurl: "/smp"
+url: "https://pseudosmp.github.io"
+baseurl: "/"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2023
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
@@ -13,8 +13,8 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: The Pseudo Force SMP
-serverDescription: Fun Cross-Platform Survival Multiplayer!
-serverIP: pseudosmp.us.to
+serverDescription: Fun Cross-Platform Survival Multiplayer! (IPv6 ONLY!!)
+serverIP: ilamipv6.ddns.net:25565
 useBedrockForOnlineStatus: false
 
 
