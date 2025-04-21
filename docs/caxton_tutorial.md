@@ -56,7 +56,7 @@ Putting `{"tech": "msdf"}` in each of these fonts will display them correctly. B
 #### 4) ```assets/minecraft/font/default.json```
 This is the final piece of the puzzle. [The format can be copied as is from the in-built resource pack of Caxton for now.](https://gitlab.com/Kyarei/caxton/-/blob/master/fabric/src/main/resources/resourcepacks/inter/assets/minecraft/font/default.json?ref_type=heads) Remember 1.20 changed something in the default font provider so the format of this file will be different on 1.20 as compared to prior versions. Make sure you copy it from the resource pack of your minecraft version. 
 
-Then, for each of the `"file":` option, set the value to `"<namespace>:<font_name>"`. Replace <namespace> with the name you chose, and <font_name> with your font's name. (Notice the style mentioned above `"file"` and set the value appropriately!)
+Then, for each of the `"file":` option, set the value to `"<namespace>:<font_name>"`. Replace \<namespace> with the name you chose, and <font_name> with your font's name. (Notice the style mentioned above `"file"` and set the value appropriately!)
 Your file should look like this (1.20):
 ![image](https://raw.githubusercontent.com/pseudosmp/pseudosmp.github.io/refs/heads/master/docs/media/caxton/caxton_9.png)
 
