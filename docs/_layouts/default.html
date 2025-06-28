@@ -29,9 +29,10 @@ layout: compress
     <meta name="theme-color" content="#272727">
 
     <!-- social media -->
+    <meta property="og:type" content="website">
     <meta property="og:title" content="{{ page.ogTitle }}">
     <meta property="og:description" content="{{ page.ogDesc }}">
-    <meta property="og:image" content="{{ page.ogImg }}">
+    <meta property="og:image" content="{% if page.ogImg contains '://' %}{{ page.ogImg }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.ogImg }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}/{{ page.ogURL }}">
     
 </head>

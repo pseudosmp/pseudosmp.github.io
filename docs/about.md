@@ -5,7 +5,7 @@ navname: About
 tabTitle: 'About The Pseudo Force SMP'
 ogTitle: 'About The Pseudo Force SMP'
 ogDesc: 'Welcome to The Pseudo Force SMP! A certified introvert friendly space™️ because no one joins :('
-ogImg: https://github.com/pseudoforceyt/moonrise/blob/master/docs/media/android-chrome-192x192.png?raw=true
+ogImg: media/android-chrome-192x192.png
 ogURL: about
 
 ---
