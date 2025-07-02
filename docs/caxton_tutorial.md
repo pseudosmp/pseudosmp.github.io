@@ -58,6 +58,7 @@ This is the final piece of the puzzle. [The format can be copied as is from the 
 
 Then, for each of the `"file":` option, set the value to `"<namespace>:<font_name>"`. Replace \<namespace> with the name you chose, and <font_name> with your font's name. (Notice the style mentioned above `"file"` and set the value appropriately!)
 Your file should look like this (1.20):
+
 ![image](https://raw.githubusercontent.com/pseudosmp/pseudosmp.github.io/refs/heads/master/docs/media/caxton/caxton_9.png)
 
 (We will look at what `shadow_offset` is later)
